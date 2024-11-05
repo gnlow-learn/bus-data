@@ -64,3 +64,15 @@ https://kotsa.or.kr/ptc
 - 전국
 - 연도 -> (정류장, 요일) -> (승차량, 하차량)
 - Crawl
+
+## 전국버스운송사업조합연합회
+
+https://www.bus.or.kr/
+
+### 버스노선 ★
+
+https://www.bus.or.kr/support/route.asp
+
+- 전국
+- 지역 -> 웹사이트
+- Crawl
