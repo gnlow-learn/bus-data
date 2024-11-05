@@ -49,6 +49,8 @@ https://gits.gg.go.kr/
 
 ## 국가대중교통DB
 
+https://kotsa.or.kr/ptc
+
 ### 대중교통 이용지표
 
 #### 노선별 이용인원
@@ -61,3 +63,4 @@ https://gits.gg.go.kr/
 
 - 전국
 - 연도 -> (정류장, 요일) -> (승차량, 하차량)
+- Crawl
